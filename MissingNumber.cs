@@ -11,13 +11,13 @@ namespace DotNet_DSA
 
         public int MissingNumberFromArray(int[] arr, int n)
         {
-            int sum = 0;
+            int sum1 = 0;
             for(int i=0; i<arr.Length; i++)
             {
-                sum += arr[i];
+                sum1 += arr[i];
             }
             int sumNum = n * (n + 1) / 2;
-            int ans = sumNum - sum;
+            int ans = sumNum - sum1;
             return ans;
         }
     }
