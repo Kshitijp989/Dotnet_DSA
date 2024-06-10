@@ -1,8 +1,5 @@
 C:\Users\User\Desktop\DotNet_DSA\bin\Debug\net6.0\DotNet_DSA.exe
-C:\Users\User\Desktop\DotNet_DSA\bin\Debug\net6.0\DotNet_DSA.deps.json
-C:\Users\User\Desktop\DotNet_DSA\bin\Debug\net6.0\DotNet_DSA.runtimeconfig.json
 C:\Users\User\Desktop\DotNet_DSA\bin\Debug\net6.0\DotNet_DSA.dll
-C:\Users\User\Desktop\DotNet_DSA\bin\Debug\net6.0\DotNet_DSA.pdb
 C:\Users\User\Desktop\DotNet_DSA\obj\Debug\net6.0\DotNet_DSA.csproj.AssemblyReference.cache
 C:\Users\User\Desktop\DotNet_DSA\obj\Debug\net6.0\DotNet_DSA.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\User\Desktop\DotNet_DSA\obj\Debug\net6.0\DotNet_DSA.AssemblyInfoInputs.cache
@@ -11,5 +8,8 @@ C:\Users\User\Desktop\DotNet_DSA\obj\Debug\net6.0\DotNet_DSA.csproj.CoreCompileI
 C:\Users\User\Desktop\DotNet_DSA\obj\Debug\net6.0\DotNet_DSA.dll
 C:\Users\User\Desktop\DotNet_DSA\obj\Debug\net6.0\refint\DotNet_DSA.dll
 C:\Users\User\Desktop\DotNet_DSA\obj\Debug\net6.0\DotNet_DSA.pdb
+C:\Users\User\Desktop\DotNet_DSA\bin\Debug\net6.0\DotNet_DSA.deps.json
+C:\Users\User\Desktop\DotNet_DSA\bin\Debug\net6.0\DotNet_DSA.runtimeconfig.json
+C:\Users\User\Desktop\DotNet_DSA\bin\Debug\net6.0\DotNet_DSA.pdb
 C:\Users\User\Desktop\DotNet_DSA\obj\Debug\net6.0\DotNet_DSA.genruntimeconfig.cache
 C:\Users\User\Desktop\DotNet_DSA\obj\Debug\net6.0\ref\DotNet_DSA.dll
